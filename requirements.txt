@@ -1,8 +1,7 @@
-Plaintext
 streamlit
 scikit-learn
-numpy
 pandas
+numpy
+joblib
 matplotlib
 seaborn
-joblib
